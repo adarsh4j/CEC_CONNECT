@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526186103428",
+    "project_id": "cec-connect-c0e92",
+    "storage_bucket": "cec-connect-c0e92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526186103428:android:4e14077a148079d5a1f8d1",
+        "android_client_info": {
+          "package_name": "com.nibin.cec_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526186103428-qheup8r8gg0vb3utue8lprolrh6f1dm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBqAwlTKLOhnjuNfUGeUkvNKcgqra4BNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526186103428-qheup8r8gg0vb3utue8lprolrh6f1dm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
