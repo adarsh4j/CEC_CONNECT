@@ -22,7 +22,7 @@ To modify the project, you will need the following prerequisites:
 
 ### Login Page
 
-![1 (4)](https://www.canva.com/design/DAFtrYVLY30/xIHquEFB9jDb37FdwGiuiA/view?utm_content=DAFtrYVLY30&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+![1 (4)](https://github.com/adarsh4j/CEC_CONNECT/assets/78248655/2f0492fc-2970-44db-890f-095c73fa66b0)
 ### FrontPage
 
 ![2 (1)](https://github.com/adarsh4j/CEC_CONNECT/assets/78248655/d294ac13-7ae7-48ea-b4ba-315408fe22a6)
